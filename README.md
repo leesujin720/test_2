@@ -43,8 +43,13 @@ for i in range(5) :
 ```
 
 
+
+
 <https://docs.python.org/ko/3/>
 
 [파이썬 공식문서](https://docs.python.org/ko/3/)
 
 [파이썬 공식문서](https://docs.python.org/ko/3/, "파이썬 공식문서입니다~")
+
+
+![프로필](catimg.webp)
